@@ -1,0 +1,59 @@
+{
+  "name": "David Bourgin",
+  "email": "@outlook.com", //////////////
+  "title": "Senior AI/ML Engineer",
+  "phone": "+1 325 999 7630",  ////////////
+  "location": "Pasadena, California",
+  "linkedin": "https://www.linkedin.com/in/tomasuciu/",
+  "experience": [
+    {
+      "company": "Adobe",
+      "location": "",
+      "start_date": "February 2022",
+      "end_date": "Present",
+      "title": "Senior Machine Learning Engineer"
+    },
+    {
+      "company": "Spotify",
+      "location": "",
+      "start_date": "January 2020",
+      "end_date": "Febuary 2022",
+      "title": "Machine Learning Engineer"
+    },
+    {
+      "company": "Princeton University",
+      "location": "",
+      "start_date": "August 2018",
+      "end_date": "November 2018",
+      "title": "Postdoctoral Researcher"
+    },
+    {
+      "company": "UV Berkeley",
+      "location": "",
+      "start_date": "August 2012",
+      "end_date": "November 2018",
+      "title": "Machine Learning Researcher"
+    },
+    {
+      "company": "Microsoft",
+      "location": "",
+      "start_date": "May 2017",
+      "end_date": "August 2017",
+      "title": "Research Fellow"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Doctor of Philosophy",
+      "school": "University of California, Berkeley",
+      "start_year": "2012",
+      "end_year": "2020"
+    },
+    {
+      "degree": "Bachelor's Degree, Psychology",
+      "school": "Saint Mary's College of Maryland",
+      "start_year": "2005",
+      "end_year": "2009"
+    }
+  ]
+}

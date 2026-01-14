@@ -1,0 +1,45 @@
+{
+  "name": "Leland Nyman",
+  "email": "lelandnyman12@outlook.com",
+  "phone": "469 461 7441",
+  "location": "St Paul, Minnesota",
+  "linkedIn": "https://www.linkedin.com/in/leland-nyman-46899395/",
+  "experience": [
+    {
+      "company": "Thomson Reuters Special Services",
+      "location": "St Paul, Minnesota",
+      "start_date": "October 2022",
+      "end_date": "Present",
+      "title": "Senior Automation QA Engineer"
+    },
+    {
+      "company": "Thomson Reuters Special Services",
+      "location": "St Paul, Minnesota",
+      "start_date": "October 2020",
+      "end_date": "October 2022",
+      "title": "Software QA Engineer"
+    },
+    {
+      "company": "tap|QA LLC",
+      "location": "",
+      "start_date": "July 2014",
+      "end_date": "October 2020",
+      "title": "Automation Engineer II"
+    },
+    {
+      "company": "Activision",
+      "location": "",
+      "start_date": "2010",
+      "end_date": "2013",
+      "title": "Quality Assurance Engineer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "school": "Full Sail University",
+      "start_year": "2007",
+      "end_year": "2009"
+    }
+  ]
+}

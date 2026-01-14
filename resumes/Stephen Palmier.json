@@ -1,0 +1,58 @@
+{
+  "name": "Stephen Palmier",
+  "email": "@outlook.com",    ////////////////
+  "title": "Senior AI / ML Engineer",
+  "phone": "+1 XXX XXX XXXX",  ///////////////
+  "location": "Dallas, Texas",
+  "linkedin": "https://www.linkedin.com/in/stephenpalmier/",
+  "experience": [
+    {
+      "company": "Lockheed Martin",
+      "location": "",
+      "start_date": "December 2022",
+      "end_date": "Present",
+      "title": "Artificial Intelligence and Machine Learning Engineer"
+    },
+    {
+      "company": "Lockheed Martin",
+      "location": "",
+      "start_date": "May 2021",
+      "end_date": "December 2022",
+      "title": "Software Engineer – AI/ML"
+    },
+    {
+      "company": "Lunar Outpost",
+      "location": "",
+      "start_date": "May 2022",
+      "end_date": "June 2022",
+      "title": "Software Engineer – Field Session"
+    },
+    {
+      "company": "United States Air Force",
+      "location": "",
+      "start_date": "January 2016",
+      "end_date": "January 2020",
+      "title": "Airfield Management Operations"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science (MS), Computer Science – Artificial Intelligence",
+      "school": "Southern Methodist University",
+      "start_year": "2022",
+      "end_year": "2024"
+    },
+    {
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "school": "Colorado School of Mines",
+      "start_year": "2020",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Associate of Arts and Sciences (AAS), Aviation/Airway Management and Operations",
+      "school": "Community College of the Air Force",
+      "start_year": "2016",
+      "end_year": "2018"
+    }
+  ]
+}

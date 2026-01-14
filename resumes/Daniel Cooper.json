@@ -1,0 +1,38 @@
+{
+  "name": "Daniel Cooper",
+  "email": "danielcooper239@outlook.com",
+  "title": "Senior AI/ML Engineer",
+  "phone": "+1 832 924 0191",
+  "location": "San Diego, California",
+  "linkedin": "https://www.linkedin.com/in/publicdaniel/",
+  "experience": [
+    {
+      "company": "QuantumWork",
+      "location": "Chalotte, North Carolina",
+      "start_date": "January 2019",
+      "end_date": "Present",
+      "title": "Machine Learning Engineer"
+    },
+    {
+      "company": "AvidXchange",
+      "location": "Chalotte, North Carolina",
+      "start_date": "September 2015",
+      "end_date": "December 2018",
+      "title": "Data Scientist"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree, Data Science and Advanced Analytics",
+      "school": "NOVA IMS Information Management School",
+      "start_year": "2017",
+      "end_year": "2020"
+    },
+    {
+      "degree": "Bachelor's Degree, Finance & Management Information Systems",
+      "school": "University of North Carolina at Charlotte",
+      "start_year": "2013",
+      "end_year": "2016"
+    }
+  ]
+}

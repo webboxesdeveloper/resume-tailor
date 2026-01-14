@@ -1,0 +1,67 @@
+{
+  "name": "Daniel Levy",
+  "email": "@outlook.com",  //////////////
+  "title": "Senior AI Engineer / Engineering Leader",
+  "phone": "+1 XXX XXX XXXX",  //////////////
+  "location": "Denver, Colorado",
+  "linkedin": "https://www.linkedin.com/in/realdaniellevy/",
+  "experience": [
+    {
+      "company": "MagicSchool AI",
+      "location": "",
+      "start_date": "April 2025",
+      "end_date": "Present",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "company": "Hotel Engine",
+      "location": "Denver, Colorado, United States",
+      "start_date": "July 2021",
+      "end_date": "July 2024",
+      "title": "Principal Engineer"
+    },
+    {
+      "company": "Stealth Startup",
+      "location": "",
+      "start_date": "March 2020",
+      "end_date": "May 2021",
+      "title": "VP of Engineering"
+    },
+    {
+      "company": "Quizlet",
+      "location": "",
+      "start_date": "March 2020",
+      "end_date": "December 2020",
+      "title": "Senior Lead Software Engineer"
+    },
+    {
+      "company": "Lambda School",
+      "location": "",
+      "start_date": "March 2019",
+      "end_date": "December 2019",
+      "title": "Program Manager"
+    },
+    {
+      "company": "Galvanize Inc",
+      "location": "",
+      "start_date": "September 2017",
+      "end_date": "February 2019",
+      "title": "Lead Instructor"
+    },
+    {
+      "company": "Elastic Suite Inc.",
+      "location": "Greater Denver Area",
+      "start_date": "February 2015",
+      "end_date": "April 2017",
+      "title": "Senior Software Architect"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S of Law, Science & Software",
+      "school": "University of Denver",
+      "start_year": "2003",
+      "end_year": "2008"
+    }
+  ]
+}

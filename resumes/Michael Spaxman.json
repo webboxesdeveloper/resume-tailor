@@ -1,0 +1,66 @@
+{
+  "name": "Michael Spaxman",
+  "email": "michaelspaxman76@outlook.com",
+  "phone": "(832) 924 0191",
+  "location": "Raleigh, North Carolina",
+  "linkedin": "https://www.linkedin.com/in/michael-spaxman/",
+  "experience": [
+    {
+      "company": "Avalara",
+      "location": "",
+      "start_date": "May 2023",
+      "end_date": "Present",
+      "title": "Senior Software Engineer"
+    },
+    {
+      "company": "Center Stage Music School",
+      "location": "",
+      "start_date": "October 2022",
+      "end_date": "September 2023",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Red Hat",
+      "location": "",
+      "start_date": "October 2017",
+      "end_date": "April 2022",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "TopQuadrant",
+      "location": "",
+      "start_date": "February 2016",
+      "end_date": "September 2017",
+      "title": "Frontend Engineer"
+    },
+    {
+      "company": "SAS",
+      "location": "",
+      "start_date": "February 2016",
+      "end_date": "September 2017",
+      "title": "Frontend Engineer"
+    },
+    {
+      "company": "Lulu",
+      "location": "",
+      "start_date": "April 2014",
+      "end_date": "November 2015",
+      "title": "UI Engineer"
+    },
+    {
+      "company": "TexTivia",
+      "location": "",
+      "start_date": "October 2013",
+      "end_date": "April 2014",
+      "title": "Junior Developer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Associate of Applied Science",
+      "school": "Wake Technical Community College",
+      "start_year": "2009",
+      "end_year": "2012"
+    }
+  ]
+}

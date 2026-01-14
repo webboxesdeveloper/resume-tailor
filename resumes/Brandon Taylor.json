@@ -1,0 +1,52 @@
+{
+  "name": "Brandon Mason Taylor",
+  "email": "brandontaylor761@outlook.com",
+  "title": "Senior AI / ML Engineer",
+  "phone": "+1 469 461 7441",
+  "location": "Fort Collins, Colorado",
+  "linkedin": "https://www.linkedin.com/in/taylor-bm/",
+  "experience": [
+    {
+      "company": "Tomorrow.io",
+      "location": "",
+      "start_date": "April 2022",
+      "end_date": "Present",
+      "title": "Senior AI / ML Engineer"
+    },
+    {
+      "company": "DTN",
+      "location": "",
+      "start_date": "May 2020",
+      "end_date": "April 2022",
+      "title": "Senior Software Engineer"
+    },
+    {
+      "company": "NOAA",
+      "location": "",
+      "start_date": "July 2018",
+      "end_date": "May 2020",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "National Weather Service",
+      "location": "",
+      "start_date": "July 2018",
+      "end_date": "December 2018",
+      "title": "Computer Programmer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science, Atmospheric Sciences and Meteorology",
+      "school": "York University",
+      "start_year": "2017",
+      "end_year": "2018"
+    },
+    {
+      "degree": "Bachelor of Science, Meteorology",
+      "school": "University of Oklahoma",
+      "start_year": "2011",
+      "end_year": "2015"
+    }
+  ]
+}

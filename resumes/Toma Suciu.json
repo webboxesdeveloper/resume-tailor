@@ -1,0 +1,52 @@
+{
+  "name": "Toma Suciu",
+  "email": "@outlook.com", //////////////
+  "title": "Lead AI/ML Engineer",
+  "phone": "+1 325 999 7630",
+  "location": "Pasadena, California",
+  "linkedin": "https://www.linkedin.com/in/tomasuciu/",
+  "experience": [
+    {
+      "company": "Fetch",
+      "location": "",
+      "start_date": "October 2024",
+      "end_date": "Nov 2025",
+      "title": "Technical Lead, Machine Learning Engineer"
+    },
+    {
+      "company": "Elementary",
+      "location": "",
+      "start_date": "May 2021",
+      "end_date": "October 2024",
+      "title": "Senior Machine Learning Engineer"
+    },
+    {
+      "company": "NOAA",
+      "location": "",
+      "start_date": "June 2019",
+      "end_date": "September 2019",
+      "title": "Research Fellow"
+    },
+    {
+      "company": "New York City Economic Development Corporation",
+      "location": "",
+      "start_date": "September 2016",
+      "end_date": "March 2017",
+      "title": "Research Fellow"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree, Computer Science and Mathematics",  ////////////
+      "school": "The City College of New York",
+      "start_year": "2018",
+      "end_year": "2020"
+    },
+    {
+      "degree": "Bachelor's Degree, Computer Science",  /////////////
+      "school": "Bard College",
+      "start_year": "2016",
+      "end_year": "2018"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Cameron Wood",
+  "email": "cameronwood43@outlook.com",
+  "title": "Senior AI/ML Engineer",
+  "phone": "+1 682 254 7451",
+  "location": "Austin, Texas",
+  "linkedin": "https://www.linkedin.com/in/cameron-wood-755800160/",
+  "experience": [
+    {
+      "company": "Camgian",
+      "location": "",
+      "start_date": "August 2022",
+      "end_date": "Present",
+      "title": "Machine Learning Engineer"
+    },
+    {
+      "company": "UAB Compuer Forensics Lab",
+      "location": "",
+      "start_date": "April 2019",
+      "end_date": "August 2022",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Kinetic Communicatoins",
+      "location": "",
+      "start_date": "Feb 2019",
+      "end_date": "April 2019",
+      "title": "Software Apprentice"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree, Computer Science",
+      "school": "University of Alabama at Birmingham",
+      "start_year": "2021",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Bachelor's Degree, Computer Science",
+      "school": "University of Alabama at Birmingham",
+      "start_year": "2017",
+      "end_year": "2021"
+    }
+  ]
+}
