@@ -1,0 +1,61 @@
+{
+  "name": "Christopher Morocho",
+  "email": "christophermorocho12@outlook.com",
+  "phone": "682 254 7451",
+  "title": "Software Quality Assurance Engineer",
+  "location": "Long Beach, California",
+  "linkedin": "https://www.linkedin.com/in/chrismorocho",
+  "experience": [
+    {
+      "company": "Skechers",
+      "title": "Senior Quality Assuarance Engineer",
+      "location": "",
+      "start_date": "April 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "CoStar Group",
+      "title": "Software QA Engineer",
+      "location": "",
+      "start_date": "February 2023",
+      "end_date": "April 2024"
+    },
+    {
+      "company": "Weedmaps",
+      "title": "Quality Engineer",
+      "location": "",
+      "start_date": "October 2021",
+      "end_date": "January 2023"
+    },
+    {
+      "company": "Amazon",
+      "title": "QA Engineer",
+      "location": "",
+      "start_date": "April 2020",
+      "end_date": "October 2021"
+    },
+    {
+      "company": "Blizzard Entertainment",
+      "title": "Test Analyst",
+      "location": "",
+      "start_date": "September 2016",
+      "end_date": "July 2019"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Informatics",
+      "school": "University of California, Irvine",
+      "start_year": "2012",
+      "end_year": "2016"
+    },
+    {
+      "degree": "Certificate",
+      "field_of_study": "User Experience (UX) Design",
+      "school": "UC San Diego Extension",
+      "start_year": "2017",
+      "end_year": "2018"
+    }
+  ]
+}
