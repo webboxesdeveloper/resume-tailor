@@ -2,9 +2,8 @@
   "name": "Toma Suciu",
   "email": "tomasuciu@outlook.com",
   "title": "Lead AI/ML Engineer",
-  "phone": "+1 325 999 7630",
+  "phone": "682 254 7451",
   "location": "Pasadena, California",
-  "linkedin": "https://www.linkedin.com/in/tomasuciu/",
   "experience": [
     {
       "company": "Fetch",
@@ -37,13 +36,13 @@
   ],
   "education": [
     {
-      "degree": "Master's Degree, Computer Science and Mathematics",  ////////////
+      "degree": "Master's Degree, Computer Science and  Mathematics",
       "school": "The City College of New York",
       "start_year": "2018",
       "end_year": "2020"
     },
     {
-      "degree": "Bachelor's Degree, Computer Science",  /////////////
+      "degree": "Bachelor's Degree, Computer Science",
       "school": "Bard College",
       "start_year": "2016",
       "end_year": "2018"
