@@ -1,7 +1,7 @@
 {
   "name": "Michael Spaxman",
   "email": "michaelspaxman76@outlook.com",
-  "phone": "682 254 7451",
+  "phone": "718 568 5318",
   "location": "Raleigh, North Carolina",
   "experience": [
     {
@@ -10,13 +10,6 @@
       "start_date": "May 2023",
       "end_date": "Present",
       "title": "Senior Software Engineer"
-    },
-    {
-      "company": "Center Stage Music School",
-      "location": "",
-      "start_date": "October 2022",
-      "end_date": "September 2023",
-      "title": "Software Engineer"
     },
     {
       "company": "Red Hat",
@@ -35,8 +28,8 @@
     {
       "company": "SAS",
       "location": "",
-      "start_date": "February 2016",
-      "end_date": "September 2017",
+      "start_date": "November 2015",
+      "end_date": "February 2016",
       "title": "Frontend Engineer"
     },
     {
